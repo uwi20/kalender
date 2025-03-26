@@ -89,7 +89,7 @@
 <body>
 
     <div class="container">
-        <img src = ![Image]("https://github.com/user-attachments/assets/737afa36-187b-41dd-a23a-7cf118061971")>
+        <img src = "https://github.com/user-attachments/assets/737afa36-187b-41dd-a23a-7cf118061971">
         <div class="header">
             <button onclick="prevMonth()">⬅</button>
             <span id="month-year"></span>
