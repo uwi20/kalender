@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: 'Comic Sans MS', cursive, sans-serif;
-            background: url('wallpaper hewan.jpg') no-repeat center center fixed;
+            background:'https://github.com/uwi20/kalender/issues/1';
             background-size: cover;
             text-align: center;
             margin: 0;
@@ -89,7 +89,7 @@
 <body>
 
     <div class="container">
-        <img src ="wallpaper hewan.jpg') no-repeat center center fixed">
+        <img src ="https://github.com/uwi20/kalender/issues/1">
         <div class="header">
             <button onclick="prevMonth()">⬅</button>
             <span id="month-year"></span>
