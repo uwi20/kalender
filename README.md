@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: 'Comic Sans MS', cursive, sans-serif;
-            background: url('./wallpaper hewan.jpg') no-repeat center center fixed;
+            background: url('wallpaper hewan.jpg') no-repeat center center fixed;
             background-size: cover;
             text-align: center;
             margin: 0;
@@ -89,7 +89,7 @@
 <body>
 
     <div class="container">
-        <background: url('./wallpaper hewan.jpg') no-repeat center center fixed;>
+        <background: url('wallpaper hewan.jpg') no-repeat center center fixed;>
         <div class="header">
             <button onclick="prevMonth()">⬅</button>
             <span id="month-year"></span>
