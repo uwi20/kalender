@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: 'Comic Sans MS', cursive, sans-serif;
-            background: url('wallpaper hewan.jpg') no-repeat center center fixed;
+            background: url('wallpaper hewan.jpg.jpg') no-repeat center center fixed;
             background-size: cover;
             text-align: center;
             margin: 0;
