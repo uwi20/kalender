@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: 'Comic Sans MS', cursive, sans-serif;
-            background : ![Image]('https://github.com/user-attachments/assets/737afa36-187b-41dd-a23a-7cf118061971') no-repeat center center fixed;
+            background : ('https://github.com/user-attachments/assets/737afa36-187b-41dd-a23a-7cf118061971') no-repeat center center fixed;
             background-size: cover;
             text-align: center;
             margin: 0;
