@@ -1,5 +1,5 @@
 # kalender 2025
-<!DOCTYPE html>
+                    
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: 'Comic Sans MS', cursive, sans-serif;
-            background: url('wallpaper hewan.jpg.jpg') no-repeat center center fixed;
+            background: url('./wallpaper hewan.jpg') no-repeat center center fixed;
             background-size: cover;
             text-align: center;
             margin: 0;
@@ -89,7 +89,7 @@
 <body>
 
     <div class="container">
-        <img src="https://i.imgur.com/Zm6i8bX.png" alt="Karakter Lucu" class="cute-character">
+        <background: url('./wallpaper hewan.jpg') no-repeat center center fixed;></background:>
         <div class="header">
             <button onclick="prevMonth()">⬅</button>
             <span id="month-year"></span>
@@ -183,6 +183,3 @@
 
         updateCalendar();
     </script>
-
-</body>
-</html>
