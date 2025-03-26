@@ -89,7 +89,7 @@
 <body>
 
     <div class="container">
-        <background: url('./wallpaper hewan.jpg') no-repeat center center fixed;></background:>
+        <background: url('./wallpaper hewan.jpg') no-repeat center center fixed;>
         <div class="header">
             <button onclick="prevMonth()">⬅</button>
             <span id="month-year"></span>
